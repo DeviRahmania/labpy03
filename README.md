@@ -6,7 +6,7 @@
 ## latihan 1
 disini saya mengerjakan soal sebagai berikut
 
-![img](gambar/soal lthn1.jpg)
+![img](gambar/soallthn1.jpg)
 
 cara mengerjakannya masukan syntak berikut
     import random
@@ -27,7 +27,7 @@ hasil output sebagai berikut
 ## latihan 2
 Soal latihan 2 sebagai berikut 
 
-![img](gambar/soal lthn2.jpg)
+![img](gambar/soallthn2.jpg)
 
 cara mengerjakan masukan syintak berikut 
     print("menampilkan bilangan berhenti ketika bilangan 0 dan menampilkan bilangan terbesar")
@@ -48,9 +48,10 @@ menghasilkan output berikut ini
 ## program 1
 soal program 1 sebagai berikut 
 
-![img](gambar/soal program.jpg)
+![img](gambar/soalprogram.jpg)
 
 cara mengerjakan masukan syntak sebagai berikut 
+
     print("******* PROGRAM 1*******")
     print("Program menghitung laba dengan modal 100.000.000")
     print("")
@@ -77,6 +78,7 @@ cara mengerjakan masukan syntak sebagai berikut
             print("Laba bulan ke-",x," : ",e)
     total=b+b+c+c+d+d+d+e
     print("\Total : ",total)
+
 
 menghasilkan output berikut 
 
