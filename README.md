@@ -43,7 +43,7 @@ cara mengerjakan masukan syintak berikut
 
 menghasilkan output berikut ini
 
-![img](gambar/lthnpy2.png)
+![img](gambar/lthn2py.png)
 
 ## program 1
 soal program 1 sebagai berikut 
