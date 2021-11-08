@@ -9,6 +9,7 @@ disini saya mengerjakan soal sebagai berikut
 ![img](gambar/soallthn1.jpg)
 
 cara mengerjakannya masukan syntak berikut
+
     import random
     print(40*"=")
     print("Bilangan acak yang lebih kecil dari 0,5")
@@ -20,6 +21,7 @@ cara mengerjakannya masukan syntak berikut
         angkaDec = random.uniform(0, 0.5)
         print("Data ke", i, " = ", angkaDec)
 
+
 hasil output sebagai berikut 
 
 ![img](gambar/lthn1py.png)
@@ -30,6 +32,7 @@ Soal latihan 2 sebagai berikut
 ![img](gambar/soallthn2.jpg)
 
 cara mengerjakan masukan syintak berikut 
+
     print("menampilkan bilangan berhenti ketika bilangan 0 dan menampilkan bilangan terbesar")
 
     max=0
@@ -40,6 +43,7 @@ cara mengerjakan masukan syintak berikut
         if a==0:
             break
     print("bilangan terbesar adalah = ",max)
+    
 
 menghasilkan output berikut ini
 
